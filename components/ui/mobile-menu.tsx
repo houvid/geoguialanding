@@ -61,8 +61,8 @@ export default function MobileMenu() {
       >
         <ul className="bg-gray-800 px-4 py-2">
           <li>
-            <Link href="https://agenda.licania.org" className="flex font-medium w-full text-purple-600 hover:text-gray-200 py-2 justify-center">
-              Ir a implementación Agenda Cultural
+            <Link href="https://agenda.licania.org" className="flex font-medium w-full text-blue-600 hover:text-gray-200 py-2 justify-center">
+              Ver mapa 
             </Link>
           </li>
           <li>
@@ -70,7 +70,7 @@ export default function MobileMenu() {
               href="https://docs.google.com/forms/d/e/1FAIpQLSd6A4NTvtw1LaBCWZ3KF2qavfMnzQPZeb_-8ZzxGnBLKVJBFg/viewform"
               className="font-medium w-full inline-flex items-center justify-center border border-transparent px-4 py-2 my-2 rounded-sm text-white bg-purple-600 hover:bg-purple-700 transition duration-150 ease-in-out" 
             >
-              Registra tu Evento cultural
+              Registra tu evento
             </Link>
           </li>
         </ul>

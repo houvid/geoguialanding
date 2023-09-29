@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Open PRO',
-  description: 'Page description',
+  title: 'Geoguia',
+  description: 'Somos tu aliado que llevará a cabo tu estrategia de centralización de datos georeferenciados.',
 }
 
 import Hero from '@/components/hero'

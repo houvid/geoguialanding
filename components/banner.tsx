@@ -20,7 +20,7 @@ export default function Banner() {
                 Revisa nuestra implementacion <span className="hidden sm:inline"> Agenda cultural </span>
               </a>{' '}
               <span className="italic px-1.5">ó</span>{' '}
-              <a className="font-medium hover:underline text-emerald-400" href="https://docs.google.com/forms/d/e/1FAIpQLSd6A4NTvtw1LaBCWZ3KF2qavfMnzQPZeb_-8ZzxGnBLKVJBFg/viewform" target="_blank" rel="noreferrer">
+              <a className="font-medium hover:underline text-blue-400" href="https://docs.google.com/forms/d/e/1FAIpQLSd6A4NTvtw1LaBCWZ3KF2qavfMnzQPZeb_-8ZzxGnBLKVJBFg/viewform" target="_blank" rel="noreferrer">
                 Registrate para hacer parte
               </a>
             </div>

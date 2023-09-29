@@ -32,7 +32,7 @@ export default function Hero() {
               <div data-aos="fade-up" data-aos-delay="600">
               </div>
             </div>
-            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="400">Somos tu aliado para llevar a cabo tu estrategia de centralización de datos georeferenciados.</p>
+            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="400">Somos tu aliado que llevará a cabo tu estrategia de centralización de datos georeferenciados.</p>
           </div>
 {/* 
           <ModalVideo
