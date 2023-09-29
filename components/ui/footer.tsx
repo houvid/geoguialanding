@@ -28,7 +28,7 @@ export default function Footer() {
             </ul>
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">&copy;</div>
+            <div className="text-gray-400 text-sm mr-4">&copy; GeoGuia</div>
 
           </div>
 
