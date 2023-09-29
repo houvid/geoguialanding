@@ -25,9 +25,9 @@ export default function Hero() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16 relative justify-center items-center">
             <h1 className="h1 mb-4" data-aos="fade-up">Somos GeoGuia</h1> 
-            <div className="sm:flex sm:justify-center">
-              <div data-aos="fade-up" data-aos-delay="200" style={{marginBottom:10}}>
-                <img src="/images/08b177fe-f4a5-40cf-bef5-5dc0b180b585.png" alt="" className='sm:flex ' style={{ width:250,  }} />
+            <div className="sm:flex sm:justify-center mx-auto">
+              <div className="sm:flex sm:justify-center mx-auto text-center" data-aos="fade-up" data-aos-delay="200" style={{marginBottom:10}}>
+                <img src="/images/08b177fe-f4a5-40cf-bef5-5dc0b180b585.png" alt=""  style={{ width:250,  }} />
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
               </div>
